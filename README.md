@@ -196,6 +196,7 @@ We chose Flutter for cross-platform user interface development and Firebase data
 🎯Reward and Incentive Programs: To encourage users to consistently recycle their waste, we will offer reward and incentive programs. Incentives such as discount coupons or special rewards could be provided for recycling certain amounts of waste.
 
 🎯Multilingual Support: We will provide support in various languages to ensure our platform can reach a broader audience.
+
 ![3000-beyaz](https://github.com/burakbaslik/econear_app/assets/88744471/9a85fbb9-a5b7-4f56-aa2b-671bba573cda)
 
 # **💻CONTRIBUTING :**
