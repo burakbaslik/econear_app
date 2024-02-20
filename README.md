@@ -39,7 +39,7 @@ The "EcoNear" project aims to create awareness about waste management and recycl
 
  
 
-# **💻  LOGİN  &  REGİSTER PAGE :**
+# **💻  LOGIN  &  REGISTER PAGE :**
 
 ![Ekran görüntüsü 2024-02-20 144856](https://github.com/burakbaslik/econear_app/assets/88744471/12fe7a7b-4cbc-408c-bb2e-9c570bb4136e)
 
@@ -110,8 +110,7 @@ Our users can easily find their nearest waste collection point through our locat
 
 Our advanced recycling system makes it easy for users to sort their waste by type. We have multiple recycling bins, each customized for different types of waste (electronics, plastic, paper, etc.). After selecting the appropriate bin for their waste, users log in by entering their ID and drop their waste in the relevant bin. After depositing the waste, the user receives a financial reward based on the weight of the waste deposited. This system encourages waste segregation, making recycling processes both efficient and rewarding.
 
-
-![Ekran görüntüsü 2024-02-20 150745](https://github.com/burakbaslik/econear_app/assets/88744471/e63202c0-0267-4d13-9b8a-15c2ca33754e)
+![Ekran görüntüsü 2024-02-20 230004](https://github.com/burakbaslik/econear_app/assets/88744471/39dac83f-553c-428d-b961-26f67780fd34)
 
 
 
@@ -119,7 +118,7 @@ Our advanced recycling system makes it easy for users to sort their waste by typ
 
 
 
-# **💻 HOME PAGE & PROFİLE PAGE :**
+# **💻 HOME PAGE & PROFILE PAGE :**
 
 
 
@@ -182,7 +181,7 @@ We chose Flutter for cross-platform user interface development and Firebase data
 
 
 
-# **💻Current / Next Steps :**
+# **💻CURRENT / NEXT STEPS :**
 
 ✅The primary goal of our project is based on the principles of climate action and responsible production and consumption, which are among the United Nations Sustainable Development Goals.
 
@@ -199,7 +198,7 @@ We chose Flutter for cross-platform user interface development and Firebase data
 🎯Multilingual Support: We will provide support in various languages to ensure our platform can reach a broader audience.
 ![3000-beyaz](https://github.com/burakbaslik/econear_app/assets/88744471/9a85fbb9-a5b7-4f56-aa2b-671bba573cda)
 
-# **💻Contributing :**
+# **💻CONTRIBUTING :**
 
 We're Eagerly Awaiting Your Contributions! Please use GitHub issues for bug reports, feature requests, or any creative suggestions you might have. By opening a new issue in our project, you can provide clear instructions on how you can contribute to our community. Our team will meticulously review every issue submitted and collaborate with you to integrate your contributions into our codebase successfully. Your opinions and suggestions during this process will be invaluable contributions to the development of our project.
 
@@ -214,7 +213,7 @@ We're Eagerly Awaiting Your Contributions! Please use GitHub issues for bug repo
 
 
 
-# **💻 Distribution :**
+# **💻 DISTRIBUTION :**
 1. Make sure you have Flutter installed on your computer.
 
 https://docs.flutter.dev/get-started/install
@@ -303,7 +302,7 @@ flutter run
 ![3000-beyaz](https://github.com/burakbaslik/econear_app/assets/88744471/9a85fbb9-a5b7-4f56-aa2b-671bba573cda)
 
 
-# 👨‍👩‍👦.  Contributors
+# 👨‍👩‍👦.  CONTRIBUTORS  
 
 <div align="center">
 <table width="100%">
